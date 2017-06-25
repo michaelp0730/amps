@@ -4,11 +4,34 @@
 }
 
 <section>
-    <h1>Testing</h1>
-    <ul>
-        @foreach (var amp in Model)
-        {
-            <li>@amp.Make @amp.Model</li>
-        }
-    </ul>
+    <div class="row column">
+        <h1>Amps</h1>
+        <table>
+            <thead>
+            <tr>
+                <th>Make</th>
+                <th>Model</th>
+                <th>Speakers</th>
+                <th>Watts</th>
+                <th>Weight (lbs)</th>
+                <th>MSRP</th>
+            </tr>
+            </thead>
+            <tbody>
+            @foreach (var amp in Model)
+            {
+                <tr>
+                    <td>@amp.Make</td>
+                    <td>
+                        <a href="@($"/amps/{amp.Slug}/")">@amp.Model</a>
+                    </td>
+                    <td>@amp.SpeakerConfiguration</td>
+                    <td>@amp.Watts</td>
+                    <td>@amp.Weight</td>
+                    <td>@($"${amp.MSRP}")</td>
+                </tr>
+            }
+            </tbody>
+        </table>
+    </div>
 </section>

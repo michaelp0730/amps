@@ -3,5 +3,11 @@
   "make": "Fender",
   "model": "68 Custom Vibrolux",
   "SpeakerConfiguration": "2x10",
-  "Watts": 35
+  "Watts": 35,
+  "MSRP": 1200,
+  "Url": "http://shop.fender.com/en-US/guitar-amplifiers/vintage-pro-tube/68-custom-vibrolux-reverb/2275000000.html#start=1",
+  "Width": 24.38,
+  "Height": 18.13,
+  "Depth": 9.63,
+  "Weight": 41.8
 }
