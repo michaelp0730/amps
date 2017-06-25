@@ -1,7 +1,8 @@
 ﻿{
-  "slug": "fender-bassbreaker-45",
-  "make": "Fender",
-  "model": "Bassbreaker 45",
+  "Slug": "fender-bassbreaker-45",
+  "Make": "Fender",
+  "Model": "Bassbreaker 45",
+  "IsCombo": true, 
   "SpeakerConfiguration": "2x12",
   "Watts": 45,
   "MSRP": 1000,

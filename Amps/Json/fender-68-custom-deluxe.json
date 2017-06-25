@@ -1,7 +1,8 @@
 ﻿{
-  "slug": "fender-68-custom-deluxe",
-  "make": "Fender",
-  "model": "68 Custom Deluxe",
+  "Slug": "fender-68-custom-deluxe",
+  "Make": "Fender",
+  "Model": "68 Custom Deluxe",
+  "IsCombo": true,
   "SpeakerConfiguration": "1x12",
   "SpeakerType": "Celestion G12V-70",
   "Watts": 22,

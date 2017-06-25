@@ -10,6 +10,7 @@ namespace Amps.Models
         public string Slug { get; set; }
         public string Make { get; set; }
         public string Model { get; set; }
+        public bool IsCombo { get; set; }
         public string SpeakerConfiguration { get; set; }
         public string SpeakerType { get; set; }
         public int Watts { get; set; }

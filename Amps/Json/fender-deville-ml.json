@@ -1,7 +1,8 @@
 ﻿{
-  "slug": "fender-deville-ml",
-  "make": "Fender",
-  "model": "Hot Rod Deville ML",
+  "Slug": "fender-deville-ml",
+  "Make": "Fender",
+  "Model": "Hot Rod Deville ML",
+  "IsCombo": true, 
   "SpeakerConfiguration": "2x12",
   "SpeakerType": "Celestion V-type",
   "Watts": 60,

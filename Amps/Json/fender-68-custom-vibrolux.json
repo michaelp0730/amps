@@ -1,7 +1,8 @@
 ﻿{
-  "slug": "fender-68-custom-vibrolux",
-  "make": "Fender",
-  "model": "68 Custom Vibrolux",
+  "Slug": "fender-68-custom-vibrolux",
+  "Make": "Fender",
+  "Model": "68 Custom Vibrolux",
+  "IsCombo": true, 
   "SpeakerConfiguration": "2x10",
   "SpeakerType": "Celestion TEN 30 speakers",
   "Watts": 35,

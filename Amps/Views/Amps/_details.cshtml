@@ -1,13 +1,107 @@
-﻿@model Amps.Models.Amp
+﻿@using System.Linq
+@model Amps.Models.Amp
 @{
     ViewData["Title"] = $"{Model.Model} | AmpsApp";
+    var title = $"{Model.Make} {Model.Model}";
+    if (Model.IsCombo)
+    {
+        title += "Combo";
+    }
 }
 
 <section>
     <div class="row column">
-        <h1>
-            <a href="@Model.Url">@Model.Make @Model.Model</a>
-        </h1>
-        
+        <a href="/">Home</a>
     </div>
+    <div class="row column">
+        <h1>
+            <a href="@Model.Url">@title</a>
+        </h1>
+    </div>
+    <div class="row">
+        <div class="column medium-4">
+            <h3>Speakers</h3>
+            <p>Configuration: @Model.SpeakerConfiguration</p>
+            <p>Type: @Model.SpeakerType</p>
+        </div>
+        <div class="column medium-4">
+            <h3>Dimensions</h3>
+            <p>Height: @Model.Height"</p>
+            <p>Width: @Model.Width"</p>
+            <p>Depth: @Model.Depth"</p>
+            <p>Weight: @Model.Weight lbs</p>
+        </div>
+        <div class="column medium-4">
+            <h3>Effects</h3>
+            <p>Reverb: @Model.HasReverb</p>
+            <p>Tremolo: @Model.HasTremolo</p>
+            <p>Effects Loop: @Model.HasEffectsLoop</p>
+        </div>
+    </div>
+    <div class="row">
+        <div class="column medium-4">
+            <h3>Tubes</h3>
+            <p>Preamp Tubes: @Model.PreampTubes</p>
+            <p>Poweramp Tubes: @Model.PowerampTubes</p>
+            <p>Rectifier: @Model.Rectifier</p>
+        </div>
+        <div class="column medium-4">
+            <h3>Controls</h3>
+            <p>EQ: @Model.Eq</p>
+            <p>Inputs: @Model.Inputs</p>
+            @if (!string.IsNullOrEmpty(Model.Outputs))
+            {
+                <p>Outputs: @Model.Outputs</p>
+            }
+            <p>Has Footswitch: @Model.HasFootswitch</p>
+        </div>
+        @if (Model.Articles != null)
+        {
+            <div class="column medium-4">
+                <h3>Articles</h3>
+                @foreach (var article in Model.Articles)
+                {
+                    <p>
+                        <a href="@article.Url">@article.Title</a>
+                    </p>
+                }
+            </div>
+        }
+    </div>
+    <div class="row">
+        @if (Model.Pros?.Any() == true)
+        {
+            <div class="column medium-4 medium-offset-2">
+                <h3>Pros</h3>
+                <ul>
+                    @foreach (var pro in Model.Pros)
+                    {
+                        <li>@pro</li>
+                    }
+                </ul>
+            </div>
+        }
+        @if (Model.Cons?.Any() == true)
+        {
+            <div class="column medium-4">
+                <h3>Cons</h3>
+                <ul>
+                    @foreach (var con in Model.Cons)
+                    {
+                        <li>@con</li>
+                    }
+                </ul>
+            </div>
+        }
+    </div>
+    @if (Model.Videos?.Any() == true)
+    {
+        <div class="row column text-center">
+            <h3>Videos</h3>
+            @foreach (var video in Model.Videos)
+            {
+                <div class="row column">@Html.Raw(video)</div>
+            }
+        </div>
+    }
 </section>

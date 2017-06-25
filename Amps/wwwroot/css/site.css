@@ -1,4 +1,8 @@
-﻿table th, table td {
+﻿.row {
+    margin-top: 36px;
+}
+
+table th, table td {
     padding: 5px 10px;
 }
 
@@ -8,4 +12,16 @@ table tr:nth-child(even) {
 
 table tr:nth-child(odd) {
     background: #FFF
+}
+
+.text-center {
+    text-align: center;
+}
+
+.main-footer {
+    border-top: 1px solid #999;
+    font-size: small;
+    margin-top: 20px;
+    padding: 10px;
+    text-align: center;
 }
