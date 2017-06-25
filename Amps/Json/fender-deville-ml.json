@@ -3,11 +3,51 @@
   "make": "Fender",
   "model": "Hot Rod Deville ML",
   "SpeakerConfiguration": "2x12",
+  "SpeakerType": "Celestion V-type",
   "Watts": 60,
   "MSRP": 1100,
   "Url": "http://shop.fender.com/en-US/guitar-amplifiers/vintage-pro-tube/hot-rod-deville-ml-212/product-223240.html",
   "Width": 24.25,
   "Height": 21,
   "Depth": 10.75,
-  "Weight": 61
+  "Weight": 61,
+  "HasEffectsLoop": true,
+  "HasReverb": true,
+  "HasTremolo": false,
+  "PreampTubes": "3 x 12AX7",
+  "PowerampTubes": "2 x 6L6",
+  "Rectifier": "Solid State",
+  "Channels": 2,
+  "Inputs": "2 x 1/4\"",
+  "Outputs": "2 x 1/4\" (Parallel)",
+  "Eq": "3-band",
+  "HasFootswitch": true,
+  "Articles": [
+    {
+      "Title": "Premier Guitar Review",
+      "Url": "https://www.premierguitar.com/articles/22693-fender-hot-rod-deville-michael-landau-2x12-review"
+    },
+    {
+      "Title": "Guitar & Bass Review",
+      "Url": "http://www.guitar-bass.net/gear/fender-hr-ml-rvw/"
+    }
+  ],
+  "Videos": [
+    "<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/Ml6zmPIyHlQ\" frameborder=\"0\" allowfullscreen></iframe>",
+    "<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/G_2KsSL0Svc\" frameborder=\"0\" allowfullscreen></iframe>",
+    "<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/IzQq9fnZaz0\" frameborder=\"0\" allowfullscreen></iframe>",
+    "<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/vwzmlN7VqQQ\" frameborder=\"0\" allowfullscreen></iframe>"
+  ],
+  "Pros": [
+    "Excellent pedal platform",
+    "Beautiful clean tones",
+    "Onboard spring reverb",
+    "Effects loop",
+    "Plenty of volume & headroom",
+    "Especially well voiced for single coil guitars",
+    "Leather handle"
+  ],
+  "Cons": [
+    "Heavy"
+  ]
 }

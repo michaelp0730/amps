@@ -4,10 +4,13 @@
   "model": "Bassbreaker 18/30",
   "SpeakerConfiguration": "2x12",
   "Watts": 30,
-  "MSRP": 1850,
+  "MSRP": 850,
   "Url": "http://shop.fender.com/en-US/guitar-amplifiers/vintage-pro-tube/bassbreaker-1830-combo/2264000000.html#start=1",
   "Width": 26.25,
   "Height": 21.875,
   "Depth": 10,
-  "Weight": 50 
+  "Weight": 50,
+  "HasEffectsLoop": false,
+  "HasReverb": false,
+  "HasTremolo": false 
 }

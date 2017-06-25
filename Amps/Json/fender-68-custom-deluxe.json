@@ -3,11 +3,51 @@
   "make": "Fender",
   "model": "68 Custom Deluxe",
   "SpeakerConfiguration": "1x12",
+  "SpeakerType": "Celestion G12V-70",
   "Watts": 22,
   "MSRP": 1050,
   "Url": "http://shop.fender.com/en-US/guitar-amplifiers/vintage-pro-tube/%E2%80%9968-custom-deluxe-reverb/2274000000.html#start=1",
   "Width": 24.5,
   "Height": 17.5,
   "Depth": 9.5,
-  "Weight": 42
+  "Weight": 42,
+  "HasEffectsLoop": false,
+  "HasReverb": true,
+  "HasTremolo": true,
+  "PreampTubes": "4 x 12AX7, 2 X 12AT7",
+  "PowerampTubes": "2 x 6V6",
+  "Rectifier": "Tube (1 x 5AR4)",
+  "Channels": 2,
+  "Inputs": "Four - (1/4\", Two Custom and Two Vintage)",
+  "Eq": "3-band",
+  "HasFootswitch": true,
+  "Articles": [
+    {
+      "Title": "Joe Bonamassa’s 5 Most Underrated Amps",
+      "Url": "https://www.premierguitar.com/articles/21453-joe-bonamassas-5-most-underrated-amps?page=2"
+    },
+    {
+      "Title": "Vintage Guitar Review",
+      "Url": "http://www.vintageguitar.com/20878/fenders-68-custom-deluxe-reverb/"
+    },
+    {
+      "Title": "Spencer Bruce Review",
+      "Url": "http://www.spencerbruce.com/fender-68-custom-deluxe-reverb-review/"
+    }
+  ],
+  "Videos": [
+    "<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/7HWlGsNB_p4\" frameborder=\"0\" allowfullscreen></iframe>",
+    "<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/MiWskwqOMrg\" frameborder=\"0\" allowfullscreen></iframe>",
+    "<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/1X8PxSJvg34\" frameborder=\"0\" allowfullscreen></iframe>"
+  ],
+  "Pros": [
+    "Classic vintage tone",
+    "Reverb & Tremolo on both channels",
+    "Portable",
+    "Custom input with Bassman tone stack",
+    "Reduced negative feedback"
+  ],
+  "Cons": [
+    "No effects loop"
+  ] 
 }

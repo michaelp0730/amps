@@ -9,5 +9,8 @@
   "Width": 26.22,
   "Height": 22,
   "Depth": 10.5,
-  "Weight": 55
+  "Weight": 55,
+  "HasEffectsLoop": false,
+  "HasReverb": false,
+  "HasTremolo": false
 }

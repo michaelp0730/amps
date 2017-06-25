@@ -13,8 +13,11 @@
                 <th>Model</th>
                 <th>Speakers</th>
                 <th>Watts</th>
-                <th>Weight (lbs)</th>
+                <th>Weight</th>
                 <th>MSRP</th>
+                <th>Effects Loop</th>
+                <th>Reverb</th>
+                <th>Tremolo</th>
             </tr>
             </thead>
             <tbody>
@@ -29,6 +32,9 @@
                     <td>@amp.Watts</td>
                     <td>@amp.Weight</td>
                     <td>@($"${amp.MSRP}")</td>
+                    <td>@amp.HasEffectsLoop</td>
+                    <td>@amp.HasReverb</td>
+                    <td>@amp.HasTremolo</td>
                 </tr>
             }
             </tbody>

@@ -3,11 +3,52 @@
   "make": "Fender",
   "model": "68 Custom Vibrolux",
   "SpeakerConfiguration": "2x10",
+  "SpeakerType": "Celestion TEN 30 speakers",
   "Watts": 35,
   "MSRP": 1200,
   "Url": "http://shop.fender.com/en-US/guitar-amplifiers/vintage-pro-tube/68-custom-vibrolux-reverb/2275000000.html#start=1",
   "Width": 24.38,
   "Height": 18.13,
   "Depth": 9.63,
-  "Weight": 41.8
+  "Weight": 41.8,
+  "HasEffectsLoop": false,
+  "HasReverb": true,
+  "HasTremolo": true,
+  "PreampTubes": "4 x 12AX7, 2 X 12AT7",
+  "PowerampTubes": "2 x 6L6",
+  "Rectifier": "Solid State",
+  "Channels": 2,
+  "Inputs": "Four - (1/4\", Two Custom and Two Vintage)",
+  "Eq": "3-band",
+  "HasFootswitch": true,
+  "Articles": [
+    {
+      "Title": "Guitar Interactive Review",
+      "Url": "https://www.guitarinteractivemagazine.com/issues/issue-48/reviews/fender-68-custom-vibrolux-reverb-amplifier/"
+    },
+    {
+      "Title": "DV Magazine Review",
+      "Url": "http://magazine.dv247.com/2015/02/02/fender-68-custom-vibrolux-reverb-review/"
+    },
+    {
+      "Title": "Guitar Player Review",
+      "Url": "http://www.guitarplayer.com/gear/1012/fender-releases-68-custom-vibrolux-reverb/48711"
+    }
+  ],
+  "Videos": [
+    "<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/GEJN8GISpOA\" frameborder=\"0\" allowfullscreen></iframe>",
+    "<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/cVnNaS91s-s\" frameborder=\"0\" allowfullscreen></iframe>",
+    "<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/ehX-s05nVf8\" frameborder=\"0\" allowfullscreen></iframe>"
+  ],
+  "Pros": [
+    "Classic vintage tone",
+    "More headroom than Deluxe",
+    "Portable",
+    "Reverb & Tremolo on both channels",
+    "Custom input with Bassman tone stack",
+    "Reduced negative feedback"
+  ],
+  "Cons": [
+    "No effects loop"
+  ] 
 }
