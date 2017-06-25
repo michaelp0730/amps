@@ -2,8 +2,9 @@
   "Slug": "fender-bassbreaker-18-30",
   "Make": "Fender",
   "Model": "Bassbreaker 18/30",
-  "IsCombo": true, 
+  "IsCombo": true,
   "SpeakerConfiguration": "2x12",
+  "SpeakerType": "Celestion G12V-70",
   "Watts": 30,
   "MSRP": 850,
   "Url": "http://shop.fender.com/en-US/guitar-amplifiers/vintage-pro-tube/bassbreaker-1830-combo/2264000000.html#start=1",
@@ -13,5 +14,40 @@
   "Weight": 50,
   "HasEffectsLoop": false,
   "HasReverb": false,
-  "HasTremolo": false 
+  "HasTremolo": false,
+  "PreampTubes": "2 x 12AX7",
+  "PowerampTubes": "4 X EL84",
+  "Rectifier": "Solid State",
+  "Channels": 2,
+  "Inputs": "1 x 1/4\"",
+  "Eq": "Volume, Bass, Middle, Treble, Channel switcher, Volume, Tone",
+  "HasFootswitch": true,
+  "Articles": [
+    {
+      "Title": "ProAudioLand Review",
+      "Url": "http://www.proaudioland.com/news/fender-bassbreaker-1830-tube-combo-amp-review/"
+    },
+    {
+      "Title": "KitaraBlogi Review",
+      "Url": "https://kitarablogi.com/2016/11/23/review-fender-bassbreaker-1830-combo/"
+    }
+  ],
+  "YouTubeSlugs": [
+    "_sM4wj7eiMc",
+    "Rfbu47VVz24",
+    "_0Vw3FvixBs",
+    "eHsvjOLTFGs",
+    "w3obySFxUbI",
+    "_Y1zyZKVb34"
+  ],
+  "Pros": [
+    "Blackface tone on 30w channel",
+    "Brownface tone on 18w channel",
+    "Plenty loud"
+  ],
+  "Cons": [
+    "No reverb",
+    "No effects loop",
+    "Heavy"
+  ] 
 }

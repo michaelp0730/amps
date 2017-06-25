@@ -2,8 +2,9 @@
   "Slug": "fender-bassbreaker-45",
   "Make": "Fender",
   "Model": "Bassbreaker 45",
-  "IsCombo": true, 
+  "IsCombo": true,
   "SpeakerConfiguration": "2x12",
+  "SpeakerType": "Celestion V-type",
   "Watts": 45,
   "MSRP": 1000,
   "Url": "http://shop.fender.com/en-US/guitar-amplifiers/vintage-pro-tube/bassbreaker-45-combo/2265000000.html#start=1",
@@ -13,5 +14,41 @@
   "Weight": 55,
   "HasEffectsLoop": false,
   "HasReverb": false,
-  "HasTremolo": false
+  "HasTremolo": false,
+  "PreampTubes": "3 x 12AX7",
+  "PowerampTubes": "2 x EL34",
+  "Rectifier": "Solid State",
+  "Channels": 1,
+  "Inputs": "Three - Normal, Bright, Both",
+  "Eq": "Volume Normal, Volume Bright, Output, Bass, Middle, Treble, Presence",
+  "HasFootswitch": false,
+  "Articles": [
+    {
+      "Title": "Premier Guitar Review",
+      "Url": "https://www.premierguitar.com/articles/24062-fender-bassbreaker---review"
+    },
+    {
+      "Title": "Music Radar Review",
+      "Url": "http://www.musicradar.com/reviews/guitars/fender-bassbreaker-45-head-634574"
+    }
+  ],
+  "YouTubeSlugs": [
+    "Jty0E5tv_HQ",
+    "A9iL2uFvfqg",
+    "eHsvjOLTFGs",
+    "w3obySFxUbI"
+  ],
+  "Pros": [
+    "Great natural overdrive",
+    "Modern version of a bassman combined with a bluesbreaker",
+    "Very well built",
+    "Cool looking",
+    "Power attenuation",
+    "Plenty of headroom at 45 watts"
+  ],
+  "Cons": [
+    "No reverb",
+    "No effects loop",
+    "Heavy"
+  ] 
 }

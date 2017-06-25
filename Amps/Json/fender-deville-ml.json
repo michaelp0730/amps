@@ -33,11 +33,11 @@
       "Url": "http://www.guitar-bass.net/gear/fender-hr-ml-rvw/"
     }
   ],
-  "Videos": [
-    "<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/Ml6zmPIyHlQ\" frameborder=\"0\" allowfullscreen></iframe>",
-    "<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/vwzmlN7VqQQ\" frameborder=\"0\" allowfullscreen></iframe>",
-    "<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/G_2KsSL0Svc\" frameborder=\"0\" allowfullscreen></iframe>",
-    "<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/IzQq9fnZaz0\" frameborder=\"0\" allowfullscreen></iframe>"
+  "YouTubeSlugs": [
+    "Ml6zmPIyHlQ",
+    "vwzmlN7VqQQ",
+    "G_2KsSL0Svc",
+    "IzQq9fnZaz0"
   ],
   "Pros": [
     "Excellent pedal platform",

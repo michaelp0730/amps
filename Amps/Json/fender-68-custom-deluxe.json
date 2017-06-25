@@ -36,10 +36,10 @@
       "Url": "http://www.spencerbruce.com/fender-68-custom-deluxe-reverb-review/"
     }
   ],
-  "Videos": [
-    "<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/7HWlGsNB_p4\" frameborder=\"0\" allowfullscreen></iframe>",
-    "<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/MiWskwqOMrg\" frameborder=\"0\" allowfullscreen></iframe>",
-    "<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/1X8PxSJvg34\" frameborder=\"0\" allowfullscreen></iframe>"
+  "YouTubeSlugs": [
+    "7HWlGsNB_p4",
+    "MiWskwqOMrg",
+    "1X8PxSJvg34"
   ],
   "Pros": [
     "Classic vintage tone",

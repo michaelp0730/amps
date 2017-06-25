@@ -1,0 +1,50 @@
+﻿{
+  "Slug": "soldano-astroverb",
+  "Make": "Soldano",
+  "Model": "Astroverb 16",
+  "IsCombo": true,
+  "SpeakerConfiguration": "1x12",
+  "SpeakerType": "Eminence Legend V1216",
+  "Watts": 16,
+  "MSRP": 1760,
+  "Url": "http://www.soldano.com/products/combo-amplifiers/astroverb-16-112/",
+  "Width": 17.5,
+  "Height": 17.5,
+  "Depth": 10,
+  "Weight": 38,
+  "HasEffectsLoop": false,
+  "HasReverb": true,
+  "HasTremolo": false,
+  "PreampTubes": "5 x 12AX7",
+  "PowerampTubes": "2 x EL84",
+  "Rectifier": "",
+  "Channels": 1,
+  "Inputs": "1 x 1/4\"",
+  "Eq": "Preamp, Reverb, Bass, Middle, Treble, Volume and Presence",
+  "HasFootswitch": false,
+  "Articles": [
+    {
+      "Title": "Premier Guitar Review",
+      "Url": "https://www.premierguitar.com/articles/Covering_The_Tonal_Bases_Part_2_Amps"
+    }
+  ],
+  "YouTubeSlugs": [
+    "D1ZuBemssls",
+    "GNux56sD6Ug",
+    "P6aPInydriQ",
+    "zcFs39wBue0",
+    "y5mKhjkq1CU"
+  ],
+  "Pros": [
+    "Excellent onboard spring reverb",
+    "Capable of very wide range of tones",
+    "Very light and portable",
+    "Available in 2x12 combo and head as well",
+    "Handmade in Seattle with premium components"
+  ],
+  "Cons": [
+    "No effects loop",
+    "No tremolo",
+    "No reverb footswitch"
+  ]
+}

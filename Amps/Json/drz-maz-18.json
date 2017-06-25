@@ -1,0 +1,50 @@
+﻿{
+  "Slug": "drz-maz-18",
+  "Make": "Dr. Z",
+  "Model": "Maz 18 Jr",
+  "IsCombo": true,
+  "SpeakerConfiguration": "1x12",
+  "SpeakerType": "Celestion G12 H 30w",
+  "Watts": 18,
+  "MSRP": 2048,
+  "Url": "http://drzamps.com/product/maz18/",
+  "Width": 23,
+  "Height": 20,
+  "Depth": 10,
+  "Weight": 40,
+  "HasEffectsLoop": true,
+  "HasReverb": true,
+  "HasTremolo": false,
+  "PreampTubes": "4 – 12AX7, 1 – 12AT7",
+  "PowerampTubes": "2 x EL84",
+  "Rectifier": "1 – 5AR4",
+  "Channels": 1,
+  "Inputs": "1 x 1/4\"",
+  "Eq": "Volume, Treble, Mid, Bass, Cut, Master Volume, Reverb",
+  "HasFootswitch": true,
+  "Articles": [
+    {
+      "Title": "Worship GTR Review (NR version)",
+      "Url": "https://www.worshipgtr.com/dr-z-maz-18-guitar-amplifier-review/"
+    }
+  ],
+  "YouTubeSlugs": [
+    "96uXxXXY1yw",
+    "4GcHXLSyqMU",
+    "74Pxhq1P3SY",
+    "V98MrU3gqZw"
+  ],
+  "Pros": [
+    "Available with or without reverb",
+    "Also available in 1x12 studio combo, 2x10 combo, and 2x12 combo",
+    "Flexibility: This amp can go from super clean Fender to hot rodded plexi",
+    "Super sensitive EQ",
+    "Cut knob provides presence/tone for power tubes",
+    "Very light and portable",
+    "Handmade in US with premium components"
+  ],
+  "Cons": [
+    "Not a lot of headroom",
+    "No tremolo"
+  ]
+}

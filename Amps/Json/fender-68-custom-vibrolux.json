@@ -36,10 +36,10 @@
       "Url": "http://www.guitarplayer.com/gear/1012/fender-releases-68-custom-vibrolux-reverb/48711"
     }
   ],
-  "Videos": [
-    "<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/GEJN8GISpOA\" frameborder=\"0\" allowfullscreen></iframe>",
-    "<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/cVnNaS91s-s\" frameborder=\"0\" allowfullscreen></iframe>",
-    "<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/ehX-s05nVf8\" frameborder=\"0\" allowfullscreen></iframe>"
+  "YouTubeSlugs": [
+    "GEJN8GISpOA",
+    "cVnNaS91s-s",
+    "ehX-s05nVf8"
   ],
   "Pros": [
     "Classic vintage tone",

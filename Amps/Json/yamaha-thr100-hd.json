@@ -1,0 +1,54 @@
+﻿{
+  "Slug": "yamaha-thr100-hd",
+  "Make": "Yamaha",
+  "Model": "THR100 HD",
+  "IsCombo": false,
+  "SpeakerConfiguration": "2x12",
+  "SpeakerType": "1 Eminence Legend, 1 Eminence Tonka",
+  "Watts": 100,
+  "MSRP": 1810,
+  "Url": "https://usa.yamaha.com/products/musical_instruments/guitars_basses/amps_accessories/thr100hd/index.html",
+  "Width": 17.5,
+  "Height": 5,
+  "Depth": 9.75,
+  "Weight": 9.2,
+  "HasEffectsLoop": true,
+  "HasReverb": true,
+  "HasTremolo": false,
+  "PreampTubes": "SOLID, CLEAN, CRUNCH, LEAD, MODERN (Emulations)",
+  "PowerampTubes": "EL34, 6L6GC, KT88, EL84, 6V6 (Emulations)",
+  "Rectifier": "Solid State",
+  "Channels": 2,
+  "Inputs": "2 x 1/4\"",
+  "Eq": "3-band",
+  "HasFootswitch": true,
+  "Articles": [
+    {
+      "Title": "Guitar World Review",
+      "Url": "http://www.guitarworld.com/reviews-amplifiers/review-yamaha-thr100hd-guitar-amp/29441"
+    },
+    {
+      "Title": "Tone Report Review",
+      "Url": "http://tonereport.com/reviews/yamaha-thr100hd"
+    }
+  ],
+  "YouTubeSlugs": [
+    "-NuNIAM7y-E",
+    "MWnWWJeSo2E",
+    "qqya6YfZFZg",
+    "LUxozWDyDug",
+    "nmKl0QqDU3o"
+  ],
+  "Pros": [
+    "Flexibility: the modeling features allow any type of sound",
+    "Runs in stereo - both amps get their own speakers",
+    "Extremely configurable",
+    "Very light and portable",
+    "XLR output",
+    "Headphone output"
+  ],
+  "Cons": [
+    "Not as loud as tube amps",
+    "No tubes"
+  ]
+}

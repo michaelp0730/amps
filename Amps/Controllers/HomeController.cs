@@ -16,7 +16,10 @@ namespace Amps.Controllers
                 "fender-68-custom-vibrolux",
                 "fender-68-custom-deluxe",
                 "fender-bassbreaker-18-30",
-                "fender-bassbreaker-45"
+                "fender-bassbreaker-45",
+                "soldano-astroverb",
+                "drz-maz-18",
+                "yamaha-thr100-hd"
             };
 
             foreach (var slug in ampsCurationList)

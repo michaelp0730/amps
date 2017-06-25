@@ -95,13 +95,15 @@
             </div>
         }
     </div>
-    @if (Model.Videos?.Any() == true)
+    @if (Model.YouTubeSlugs?.Any() == true)
     {
         <div class="row column text-center">
             <h3>Videos</h3>
-            @foreach (var video in Model.Videos)
+            @foreach (var slug in Model.YouTubeSlugs)
             {
-                <div class="row column">@Html.Raw(video)</div>
+                <div class="row column">
+                    <iframe width="560" height="315" src=@($"https://www.youtube.com/embed/{slug}") frameborder="0" allowfullscreen></iframe>
+                </div>
             }
         </div>
     }

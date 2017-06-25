@@ -27,7 +27,7 @@ namespace Amps.Models
         public string PowerampTubes { get; set; }
         public string Rectifier { get; set; }
         public Article[] Articles { get; set; }
-        public string[] Videos { get; set; }
+        public string[] YouTubeSlugs { get; set; }
         public int Channels { get; set; }
         public string Inputs { get; set; }
         public string Outputs { get; set; }
