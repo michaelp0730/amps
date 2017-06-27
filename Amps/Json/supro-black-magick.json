@@ -8,10 +8,10 @@
   "Watts": 25,
   "MSRP": 1500,
   "Url": "https://suprousa.com/1695t-black-magick/",
-  "Width": 23,
-  "Height": 20,
-  "Depth": 10,
-  "Weight": 40,
+  "Width": 20.5,
+  "Height": 18.75,
+  "Depth": 8.75,
+  "Weight": 39.5,
   "HasEffectsLoop": false,
   "HasReverb": false,
   "HasTremolo": true,
@@ -48,7 +48,9 @@
   "Pros": [
     "Great overdrive",
     "Foot switchable tube-driven tremolo",
-    "Very light and portable"
+    "Very light and portable",
+    "Class A",
+    "Super responsive"
   ],
   "Cons": [
     "No reverb"
