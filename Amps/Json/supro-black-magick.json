@@ -1,0 +1,56 @@
+{
+  "Slug": "supro-black-magick",
+  "Make": "Supro",
+  "Model": "Black Magick",
+  "IsCombo": true,
+  "SpeakerConfiguration": "1x12",
+  "SpeakerType": "Supro BD12",
+  "Watts": 25,
+  "MSRP": 1500,
+  "Url": "https://suprousa.com/1695t-black-magick/",
+  "Width": 23,
+  "Height": 20,
+  "Depth": 10,
+  "Weight": 40,
+  "HasEffectsLoop": false,
+  "HasReverb": false,
+  "HasTremolo": true,
+  "PreampTubes": "4x 12AX7",
+  "PowerampTubes": "2x 6973",
+  "Rectifier": "",
+  "Channels": 2,
+  "Inputs": "2 x 1/4\"",
+  "Eq": "Volume 1, Volume 2, Tone, Speed, Depth",
+  "HasFootswitch": true,
+  "Articles": [
+    {
+      "Title": "Premier Guitar Review",
+      "Url": "https://www.premierguitar.com/articles/24254-supro-1695t-black-magick-review"
+    },
+    {
+      "Title": "Guitar Interactive Review",
+      "Url": "https://www.guitarinteractivemagazine.com/issues/issue-42/reviews/supro-1695t-black-magick-combo/"
+    },
+    {
+      "Title": "JHS Review",
+      "Url": "http://www.jhs.co.uk/news/2016/07/22/review-supro-black-magick-combo-amplifier-guitarist-magazine/"
+    }
+  ],
+  "YouTubeSlugs": [
+    "ZXuDS5t935g",
+    "7BXWE27Uyxg",
+    "hG8k7yO9xG0",
+    "lu7dTnjA5q0",
+    "M0NAk9gdViU",
+    "HCukfslVd6g",
+    "4QJ51FhKbsw"
+  ],
+  "Pros": [
+    "Great overdrive",
+    "Foot switchable tube-driven tremolo",
+    "Very light and portable"
+  ],
+  "Cons": [
+    "No reverb"
+  ]
+}

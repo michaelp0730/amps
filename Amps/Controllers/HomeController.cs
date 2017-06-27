@@ -12,13 +12,14 @@ namespace Amps.Controllers
             var viewModel = new List<Amp>();
             var ampsCurationList = new[]
             {
-                "fender-deville-ml",
-                "fender-68-custom-vibrolux",
+                "drz-maz-18",
                 "fender-68-custom-deluxe",
+                "fender-68-custom-vibrolux",
                 "fender-bassbreaker-18-30",
                 "fender-bassbreaker-45",
+                "fender-deville-ml",
                 "soldano-astroverb",
-                "drz-maz-18",
+                "supro-black-magick",
                 "yamaha-thr100-hd"
             };
 
