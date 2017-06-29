@@ -12,12 +12,15 @@
                 <th>Make</th>
                 <th>Model</th>
                 <th>Speakers</th>
-                <th>Watts</th>
-                <th>Weight</th>
                 <th>MSRP</th>
+                <th>Watts</th>
                 <th>Effects Loop</th>
                 <th>Reverb</th>
                 <th>Tremolo</th>
+                <th>Weight</th>
+                <th>Width</th>
+                <th>Height</th>
+                <th>Depth</th>
             </tr>
             </thead>
             <tbody>
@@ -29,12 +32,15 @@
                         <a href="@($"/amps/{amp.Slug}/")">@amp.Model</a>
                     </td>
                     <td>@amp.SpeakerConfiguration</td>
-                    <td>@amp.Watts</td>
-                    <td>@amp.Weight</td>
                     <td>@($"${amp.MSRP}")</td>
+                    <td>@amp.Watts</td>
                     <td>@amp.HasEffectsLoop</td>
                     <td>@amp.HasReverb</td>
                     <td>@amp.HasTremolo</td>
+                    <td>@amp.Weight</td>
+                    <td>@amp.Width</td>
+                    <td>@amp.Height</td>
+                    <td>@amp.Depth</td>
                 </tr>
             }
             </tbody>
