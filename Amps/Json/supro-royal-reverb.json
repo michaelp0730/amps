@@ -1,0 +1,55 @@
+{
+  "Slug": "supro-royal-reverb",
+  "Make": "Supro",
+  "Model": "Royal Reverb 1650RT",
+  "IsCombo": true,
+  "SpeakerConfiguration": "2x10",
+  "SpeakerType": "Supro CR10",
+  "Watts": 60,
+  "MSRP": 1400,
+  "Url": "https://suprousa.com/amplifiers/1650rt-royal-reverb/",
+  "Width": 23.5,
+  "Height": 16,
+  "Depth": 10.5,
+  "Weight": 56,
+  "HasEffectsLoop": false,
+  "HasReverb": true,
+  "HasTremolo": true,
+  "PreampTubes": "4x 12AX7EH 1x 12AT7",
+  "PowerampTubes": "2x 5881/6L6",
+  "Rectifier": "5U4 tube rectifier",
+  "Channels": 2,
+  "Inputs": "1 x 1/4\"",
+  "Eq": "Volume, Treble, Bass, Verb, Speed, Depth",
+  "HasFootswitch": true,
+  "Articles": [
+    {
+      "Title": "Guitar Player Review",
+      "Url": "http://www.guitarplayer.com/gear/1012/supro-royal-reverb-combo-reviewed/53792"
+    },
+    {
+      "Title": "Guitar-Bass.net Review",
+      "Url": "http://www.guitar-bass.net/gear/supro-1648rt-saturn-reverb-1650rt-royal-reverb-review/"
+    }
+  ],
+  "YouTubeSlugs": [
+    "9Et_iE0NJZc",
+    "BhC8VKG5Epw",
+    "rWnBZEQ3Vdw",
+    "r2GQU0dkKR8",
+    "9e-vMhU8WBA",
+    "eJt285VkUuc",
+    "VAxJ1_QWZYo",
+    "u0a2L0KSVnk"
+  ],
+  "Pros": [
+    "Class A (35 watts) or AB (45 or 60 watts) settings available",
+    "Two types of onboard tube-driven tremolo",
+    "Excellent onboard spring reverb",
+    "Assembled in the U.S."
+  ],
+  "Cons": [
+    "A bit heavy",
+    "A bit pricey"
+  ]
+}

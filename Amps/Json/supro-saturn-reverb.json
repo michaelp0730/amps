@@ -1,0 +1,53 @@
+{
+  "Slug": "supro-saturn-reverb",
+  "Make": "Supro",
+  "Model": "Saturn Reverb 1648RT",
+  "IsCombo": true,
+  "SpeakerConfiguration": "1x12",
+  "SpeakerType": "Supro DT12",
+  "Watts": 15,
+  "MSRP": 1200,
+  "Url": "https://suprousa.com/amplifiers/1648rt-saturn-reverb/",
+  "Width": 23.5,
+  "Height": 16,
+  "Depth": 10.5,
+  "Weight": 44,
+  "HasEffectsLoop": false,
+  "HasReverb": true,
+  "HasTremolo": true,
+  "PreampTubes": "4x 12AX7, 1x 12AT7",
+  "PowerampTubes": "2x 6973",
+  "Rectifier": "",
+  "Channels": 1,
+  "Inputs": "1 x 1/4\"",
+  "Eq": "Volume, Treble, Bass, Verb, Speed, Depth",
+  "HasFootswitch": true,
+  "Articles": [
+    {
+      "Title": "Premier Guitar Review",
+      "Url": "https://www.premierguitar.com/articles/22277-supro-saturn-reverb-review"
+    },
+    {
+      "Title": "Guitar-Bass.net Review",
+      "Url": "http://www.guitar-bass.net/gear/supro-1648rt-saturn-reverb-1650rt-royal-reverb-review/"
+    }
+  ],
+  "YouTubeSlugs": [
+    "p_kJh_Mwj6U",
+    "rHr0ektaRi4",
+    "SsLI0nI6v6M",
+    "9e-vMhU8WBA",
+    "qkfJCmr68Z8",
+    "mWi7jiS--Yk"
+  ],
+  "Pros": [
+    "Excellent onboard spring reverb",
+    "Two types of onboard tube-driven tremolo",
+    "Nice natural breakup",
+    "Very light and portable",
+    "Assembled in the U.S."
+  ],
+  "Cons": [
+    "Not much clean headroom"
+  ]
+}

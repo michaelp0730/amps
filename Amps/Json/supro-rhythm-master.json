@@ -1,0 +1,51 @@
+{
+  "Slug": "supro-rhythm-master",
+  "Make": "Supro",
+  "Model": "Rhythm Master 1675RT",
+  "IsCombo": true,
+  "SpeakerConfiguration": "1x15",
+  "SpeakerType": "Supro TB15",
+  "Watts": 60,
+  "MSRP": 1600,
+  "Url": "https://suprousa.com/amplifiers/1675rt-rhythm-master/",
+  "Width": 23.5,
+  "Height": 19,
+  "Depth": 10.5,
+  "Weight": 52,
+  "HasEffectsLoop": false,
+  "HasReverb": true,
+  "HasTremolo": true,
+  "PreampTubes": "4x 12AX7, 1x 12AT7",
+  "PowerampTubes": "2x 5881/6L6",
+  "Rectifier": "1x 5U4 Tube Rectifier",
+  "Channels": 1,
+  "Inputs": "1 x 1/4\"",
+  "Eq": "Volume, Treble, Bass, Verb, Speed, Depth",
+  "HasFootswitch": true,
+  "Articles": [
+    {
+      "Title": "Music Radar Review",
+      "Url": "http://www.musicradar.com/reviews/guitars/supro-1675rt-rhythm-master-638404"
+    },
+    {
+      "Title": "Guitar World Review",
+      "Url": "http://www.guitarworld.com/amplifiers-gear-artist-videos-news/supro-launches-titan-rhythm-master-and-jupiter-combo-amps-%E2%80%94-video"
+    }
+  ],
+  "YouTubeSlugs": [
+    "j5dTaqpnDuA",
+    "xNdmJHJyYWU",
+    "NrJ1qU8DdiI"
+  ],
+  "Pros": [
+    "Class A (35 watts) or AB (45 or 60 watts) settings available",
+    "Two types of onboard tube-driven tremolo",
+    "Excellent onboard spring reverb",
+    "Big bold sound from the 15\" speaker",
+    "Assembled in the U.S."
+  ],
+  "Cons": [
+    "A bit heavy",
+    "A bit pricey"
+  ]
+}

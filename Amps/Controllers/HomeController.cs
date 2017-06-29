@@ -20,6 +20,9 @@ namespace Amps.Controllers
                 "fender-deville-ml",
                 "soldano-astroverb",
                 "supro-black-magick",
+                "supro-rhythm-master",
+                "supro-royal-reverb",
+                "supro-saturn-reverb",
                 "yamaha-thr100-hd"
             };
 
