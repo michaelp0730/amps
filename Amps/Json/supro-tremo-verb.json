@@ -1,0 +1,52 @@
+{
+  "Slug": "supro-tremo-verb",
+  "Make": "Supro",
+  "Model": "Tremo-Verb 1622RT",
+  "IsCombo": true,
+  "SpeakerConfiguration": "1x10",
+  "SpeakerType": "Supro CR10",
+  "Watts": 25,
+  "MSRP": 1300,
+  "Url": "https://suprousa.com/amplifiers/1622rt-tremo-verb/",
+  "Width": 19,
+  "Height": 14,
+  "Depth": 9.5,
+  "Weight": 37,
+  "HasEffectsLoop": false,
+  "HasReverb": true,
+  "HasTremolo": true,
+  "PreampTubes": "4x 12AX7",
+  "PowerampTubes": "1x 6973",
+  "Rectifier": "",
+  "Channels": 1,
+  "Inputs": "1 x 1/4\"",
+  "Eq": "Volume, Treble, Bass, Verb, Speed, Depth",
+  "HasFootswitch": false,
+  "Articles": [
+    {
+      "Title": "Guitar Interactive Review",
+      "Url": "https://www.guitarinteractivemagazine.com/issues/issue-38/reviews/supro-tremo-verb/"
+    },
+    {
+      "Title": "Guitar Player Review",
+      "Url": "http://www.guitarplayer.com/amplifiers/1017/supro-1622rt-tremo-verb-1x10-reissue-tube-amp-is-now-shipping/53030"
+    }
+  ],
+  "YouTubeSlugs": [
+    "oMcw79K2tDI",
+    "ERoZR7YTWK0",
+    "GLDX6JOv23o",
+    "pPGqAgCi2Ik",
+    "GiNX91nhmB0"
+  ],
+  "Pros": [
+    "Excellent tube driven spring reverb and tremolo",
+    "Very light and portable",
+    "Very loud for such a small amp",
+    "Class A Power",
+    "Assembled in the U.S."
+  ],
+  "Cons": [
+    "Kinda small"
+  ]
+}

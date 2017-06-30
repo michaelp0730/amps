@@ -18,11 +18,13 @@ namespace Amps.Controllers
                 "fender-bassbreaker-18-30",
                 "fender-bassbreaker-45",
                 "fender-deville-ml",
+                "jet-city-2212C",
                 "soldano-astroverb",
                 "supro-black-magick",
                 "supro-rhythm-master",
                 "supro-royal-reverb",
                 "supro-saturn-reverb",
+                "supro-tremo-verb",
                 "yamaha-thr100-hd"
             };
 

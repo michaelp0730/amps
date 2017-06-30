@@ -1,0 +1,50 @@
+{
+  "Slug": "jet-city-2212C",
+  "Make": "Jet City",
+  "Model": "2212C",
+  "IsCombo": true,
+  "SpeakerConfiguration": "1x12",
+  "SpeakerType": "Jet City Eminence Custom",
+  "Watts": 20,
+  "MSRP": 350,
+  "Url": "http://www.jetcityamplification.com/2212c",
+  "Width": 21,
+  "Height": 20,
+  "Depth": 11,
+  "Weight": 38.7,
+  "HasEffectsLoop": true,
+  "HasReverb": false,
+  "HasTremolo": false,
+  "PreampTubes": "5x 12AX7",
+  "PowerampTubes": "2x EL84",
+  "Rectifier": "",
+  "Channels": 2,
+  "Inputs": "1 x 1/4\"",
+  "Eq": "Normal and Overdrive Gain (Crunch), Bass, Middle, Treble, Master, Normal and Overdrive Master, Presence",
+  "HasFootswitch": true,
+  "Articles": [
+    {
+      "Title": "Music Radar Review",
+      "Url": "http://www.musicradar.com/reviews/guitars/jet-city-jca2112rc-293230"
+    },
+    {
+      "Title": "The Ugly Guitar Truth",
+      "Url": "http://theuglyguitartruth.blogspot.com/2016/04/ugly-truth-jet-city-jca2212c-combo.html"
+    }
+  ],
+  "YouTubeSlugs": [
+    "EMNdIGofg1I",
+    "Ds8QEQcE-uE",
+    "Wcp4L-cSy1c"
+  ],
+  "Pros": [
+    "Excellent high gain overdrive",
+    "Nice crunch tone",
+    "Good size - portable but not too small",
+    "Very affordable"
+  ],
+  "Cons": [
+    "Not a good clean tone on it's own",
+    "Not a lot of clean headroom"
+  ]
+}
