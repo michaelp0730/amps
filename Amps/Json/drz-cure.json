@@ -1,0 +1,52 @@
+{
+  "Slug": "drz-cure",
+  "Make": "Dr. Z",
+  "Model": "Cure",
+  "IsCombo": true,
+  "SpeakerConfiguration": "1x12",
+  "SpeakerType": "Eminence Z12",
+  "Watts": 15,
+  "MSRP": 1400,
+  "Url": "http://drzamps.com/product/cure/",
+  "Width": 19.25,
+  "Height": 19.5,
+  "Depth": 10.5,
+  "Weight": 33,
+  "HasEffectsLoop": true,
+  "HasReverb": false,
+  "HasTremolo": false,
+  "PreampTubes": "2 – 12AX7, 1 – 12AT7",
+  "PowerampTubes": "2 – 6V6 (cathode biased)",
+  "Rectifier": "1 – 5AR4",
+  "Channels": 1,
+  "Inputs": "1 x 1/4\"",
+  "Eq": "Volume, Master, Treble, Middle, Bass, Level",
+  "HasFootswitch": true,
+  "Articles": [
+    {
+      "Title": "Humbucker Music",
+      "Url": "https://www.humbuckermusic.com/products/dr-z-cure-1x12-studio-combo-black-zw-grill"
+    },
+    {
+      "Title": "Gear News Review",
+      "Url": "https://www.gearnews.com/dr-z-debuts-no-frills-boutique-combo-amp-cure/"
+    }
+  ],
+  "YouTubeSlugs": [
+    "v0R6AVgcZNI",
+    "WcICGOw5_9I",
+    "n_fysBgs69Y",
+    "vOj2k1PN6h8"
+  ],
+  "Pros": [
+    "Vintage Blackface tone",
+    "Level control allows gain at lower volumes",
+    "Hand built in U.S.",
+    "Very light and portable",
+    "Very affordable for a 'boutique' amp"
+  ],
+  "Cons": [
+    "No reverb",
+    "No tremolo"
+  ]
+}
